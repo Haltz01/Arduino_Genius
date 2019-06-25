@@ -2,9 +2,9 @@ Arduino_Genius
 ======
 
 ### Made by:
-Dennis - NUSP: XXXXXX
-Pedro Henrique Magalhães Cisdeli- NUSP: 10289804
-Pedro Guerra Lourenço - NUSP: 11218747
+Dennis - NUSP: XXXXXX <br/>
+Pedro Henrique Magalhães Cisdeli- NUSP: 10289804 <br/>
+Pedro Guerra Lourenço - NUSP: 11218747 <br/>
 
 ### Components:
 * Arduino Uno;
@@ -14,7 +14,7 @@ Pedro Guerra Lourenço - NUSP: 11218747
 * 3 Resistors 10kOhms;
 * Jumpers.
 
-This project was developed during the classes of SSC0180 - Electronics for Computer Sciences at USP - São Carlos  and it tries to imitate the game "Genius".
+This project was developed during the classes of SSC0180 - Electronics for Computer Sciences at USP - São Carlos  and it tries to imitate the game "Genius". <br/>
 For those who don't know, this game is about memorizing a sequence. The Leds will light up, showing the sequence and the player has to repeat it. If the sequence is correct, the length of the sequence is increase by one and this process repets itself ultil the player makes an error.
 
 ### Circuit Schematic:
