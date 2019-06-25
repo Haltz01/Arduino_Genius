@@ -1,5 +1,11 @@
 Arduino_Genius
 ======
+
+### Made by:
+Dennis - NUSP: XXXXXX
+Pedro Henrique Magalhães Cisdeli- NUSP: 10289804
+Pedro Guerra Lourenço - NUSP: 11218747
+
 ### Components:
 * Arduino Uno;
 * 4 LEDs 5mm;
