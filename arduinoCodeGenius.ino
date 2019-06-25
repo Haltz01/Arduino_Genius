@@ -86,20 +86,14 @@ int debouceForDigitalRead(byte pin) {
   buttonState = digitalRead(pin); // estado do botão (pressionado ou não)
 
   if ((millis() - lastDebounceTime) > debounceDelay) { // Buffer de tempo para filtrar interferências
-
     if ((buttonState == HIGH) && (ledState == false) ) { // Se o botão foi pressionado
-
-      // digitalWrite(pin, HIGH); // Liga-se o LED
       ledState = !ledState; // Troca-se o estado do LED
       lastDebounceTime = millis();
     }
     else if ((buttonState == HIGH) && (ledState == true) ) {
-
-      // digitalWrite(pin, LOW); // Desliga-se o LED
       ledState = -ledState; // Troca-se o estado do LED
       lastDebounceTime = millis();
     }
-
   }
   return buttonState;
 }
