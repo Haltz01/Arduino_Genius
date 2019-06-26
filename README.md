@@ -2,7 +2,7 @@ Arduino_Genius
 ======
 
 ### Made by:
-Dennis - NUSP: XXXXXX <br/>
+Dennis Lemke Green - NUSP: 11219108 <br/>
 Pedro Henrique Magalhães Cisdeli- NUSP: 10289804 <br/>
 Pedro Guerra Lourenço - NUSP: 11218747 <br/>
 
