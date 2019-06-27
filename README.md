@@ -10,8 +10,8 @@ Pedro Guerra Lourenço - NUSP: 11218747 <br/>
 * Arduino Uno;
 * 4 LEDs 5mm;
 * 4 2-pin Push-buttons;
-* 3 Resistors 330 Ohms;
-* 3 Resistors 10kOhms;
+* 4 Resistors 330 Ohms;
+* 4 Resistors 10kOhms;
 * Jumpers.
 
 This project was developed during the classes of SSC0180 - Electronics for Computer Sciences at USP - São Carlos  and it tries to imitate the game "Genius". <br/>
