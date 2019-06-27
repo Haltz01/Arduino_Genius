@@ -22,5 +22,5 @@ For those who don't know, this game is about memorizing a sequence. The Leds wil
 [Link to the circuit schematic](https://prnt.sc/o6j87l)
 
 ### Video about the project:
-[Project explanation and demonstration](https://prnt.sc/o6j87l)
+[Project explanation and demonstration](https://youtu.be/6vQePfbvOsM)
 
